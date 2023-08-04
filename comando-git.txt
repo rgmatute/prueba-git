@@ -1,0 +1,16 @@
+## COMANDOS GIT
+# () CLONE --> sirve para descargar un proyecto existente en la nube
+
+#CICLO DE VIDA EN GIT DE UN COMMIT
+### ES PARA TRABAJAR YA SEA: LOCAL - CLOUD ###
+# (1) ADD - git add
+# (2) COMMIT - git commit
+# (3) STATUS - git status
+# (4) LOG - git log
+
+# (1) PUSH - git push --> sirve para enviar las confirmaciones local a la nube
+# (2) FETCH - git fetch --> sirve para verificar los cambios existente en la colud (con est me sincrnizo cn mi equip de trabajo)
+# (3) PULL - git pull --> sirve para descargar cambios efectuados en la ¡nube!
+
+# (4) DIFF - git diff ficher-a-diferenciar -->
+# (5) CHECKOUT - git checkout .\prueba.py -->
