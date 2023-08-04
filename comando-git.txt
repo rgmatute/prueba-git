@@ -1,5 +1,6 @@
 ## COMANDOS GIT
 # () CLONE --> sirve para descargar un proyecto existente en la nube
+# () INIT --> sirve para iniciar un pryecto de git en una carpeta especifica
 
 #CICLO DE VIDA EN GIT DE UN COMMIT
 ### ES PARA TRABAJAR YA SEA: LOCAL - CLOUD ###
@@ -14,3 +15,5 @@
 
 # (4) DIFF - git diff ficher-a-diferenciar -->
 # (5) CHECKOUT - git checkout .\prueba.py -->
+# (6) BRANCH - git branch --> sirve para ver el listar de ramas del proyecto
+# (7) BRANCH - git branch nmbre-rama --> sirve para crear nuevas ramas
