@@ -10,10 +10,10 @@
 # (4) LOG - git log
 
 # (1) PUSH - git push --> sirve para enviar las confirmaciones local a la nube
-# (2) FETCH - git fetch --> sirve para verificar los cambios existente en la colud (con est me sincrnizo cn mi equip de trabajo)
+# (2) FETCH - git fetch --all --> sirve para verificar los cambios existente en la colud (con est me sincrnizo cn mi equip de trabajo)
 # (3) PULL - git pull --> sirve para descargar cambios efectuados en la ¡nube!
 
-# (4) DIFF - git diff ficher-a-diferenciar -->
-# (5) CHECKOUT - git checkout .\prueba.py -->
+# (4) DIFF - git diff ficher-a-diferenciar --> sirve para verificar cambis en la nube
+# (5) CHECKOUT - git checkout .\prueba.py --> sirve para realizar salts en el tiempo a nivel de git e commit
 # (6) BRANCH - git branch --> sirve para ver el listar de ramas del proyecto
 # (7) BRANCH - git branch nmbre-rama --> sirve para crear nuevas ramas
