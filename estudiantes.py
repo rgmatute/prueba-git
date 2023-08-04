@@ -1,12 +1,6 @@
 
 # RONNY MATUTE
-<<<<<<< HEAD
-
-=======
-#LUIS ARMANDO GELVEZ
->>>>>>> f3e19cb324f5cb387da3d183d8af84b3372b94fb
-
-
+# LUIS ARMANDO GELVEZ
 # EDISSON ACOSTA
 
 
